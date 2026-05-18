@@ -5,8 +5,7 @@ Write a simple Python program for the modulation and demodulation of PCM, and DM
 Python IDE with Numpy and Scipy
 # Program
 # pulse modulation
-```
-import numpy as np
+```import numpy as np
 import matplotlib.pyplot as plt
 
 # Signal parameters
@@ -115,16 +114,12 @@ plt.tight_layout()
 plt.show()
 ```
 # Output Waveform
-
 # pulse modulation
-
 <img width="875" height="870" alt="Screenshot 2026-05-15 152633" src="https://github.com/user-attachments/assets/d9665d09-146e-4ce8-a933-094c0fe5f01e" />
 
 # delta modulation
-
 <img width="1036" height="807" alt="Screenshot 2026-05-15 154704" src="https://github.com/user-attachments/assets/41f3fb4a-8358-4bf0-932f-e58fad5dd12c" />
 
 # Results
-
 The analog signal was successfully encoded and reconstructed using PCM and DM techniques in Python, verifying their working principles.
 
