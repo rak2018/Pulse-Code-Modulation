@@ -48,8 +48,7 @@ plt.tight_layout()
 plt.show()
 ```
 # delta modulation
-```
-import numpy as np
+```import numpy as np
 import matplotlib.pyplot as plt
 
 # Parameters
@@ -112,8 +111,7 @@ plt.grid(True)
 
 plt.tight_layout()
 plt.show()
-```
-# Output Waveform
+```# Output Waveform
 # pulse modulation
 <img width="875" height="870" alt="Screenshot 2026-05-15 152633" src="https://github.com/user-attachments/assets/d9665d09-146e-4ce8-a933-094c0fe5f01e" />
 
